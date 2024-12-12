@@ -1,0 +1,6 @@
+packages:
+  - git-lfs
+  - python3-dev
+  - gcc
+  - g++
+  - libfreetype6-dev
