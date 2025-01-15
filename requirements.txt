@@ -8,3 +8,4 @@ transformers
 requests
 torch
 python-dotenv
+sentencepiece
